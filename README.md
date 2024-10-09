@@ -3,12 +3,12 @@
 ### Passionate Full Stack Developer from Mexico 🇲🇽
 ## 🔎 About Me:
 
-~ 🔭 I’m currently working on **UPP**.
-~ 🌱 I’m currently learning the **MERN stack** (MongoDB, Express, React, Node.js).
-~ 👯 I’m eager to collaborate on interesting projects and expand my horizons.
-~ 📚 **Technologies I use**: MongoDB, Spring Boot, Angular, jQuery, JavaScript, Node.js.
-~ 🎮 **Hobbies**: I enjoy playing video games and listening to music.
-~ ✉️ You can reach me at: [iscjsilos@gmail.com]
+* 🔭 I’m currently working on **UPP**.
+* 🌱 I’m currently learning the **MERN stack** (MongoDB, Express, React, Node.js).
+* 👯 I’m eager to collaborate on interesting projects and expand my horizons.
+* 📚 **Technologies I use**: MongoDB, Spring Boot, Angular, jQuery, JavaScript, Node.js.
+* 🎮 **Hobbies**: I enjoy playing video games and listening to music.
+* ✉️ You can reach me at: [iscjsilos@gmail.com](mailto:iscjsilos@gmail.com)
 
 
 ## 🛠️ Tech Stack:
