@@ -45,8 +45,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F20.svg?style=flat&logo=tensorflow&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=flat&logo=vue.js&logoColor=white)
-
 <!--
 **JsNox/JsNox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
