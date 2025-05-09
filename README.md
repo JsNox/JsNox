@@ -8,7 +8,7 @@
 * 👯 I’m eager to collaborate on interesting projects and expand my horizons.
 * 📚 **Technologies I use**: MongoDB, Spring Boot, Angular, jQuery, JavaScript, Node.js.
 * 🎮 **Hobbies**: I enjoy playing video games and listening to music.
-* ✉️ You can reach me at: [iscjsilos@gmail.com](mailto:iscjsilos@gmail.com)
+* ✉️ You can reach me at: [jsilosdevs@gmail.com](mailto:jsilosdevs@gmail.com)
 
 
 ## 🛠️ Tech Stack:
