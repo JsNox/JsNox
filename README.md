@@ -87,13 +87,6 @@ Research project focused on quantum image encoding and edge detection algorithms
 #### Tech Stack
 Python · Qiskit · NumPy · TensorFlow
 
----
-
-## 📈 GitHub Stats
-
-![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=JsNox&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JsNox&layout=compact&theme=tokyonight)
 
 ---
 
